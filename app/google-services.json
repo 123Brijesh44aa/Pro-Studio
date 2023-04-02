@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1006564595036",
+    "project_id": "prostudio-97929",
+    "storage_bucket": "prostudio-97929.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1006564595036:android:c30cd35683dc7b535cdd99",
+        "android_client_info": {
+          "package_name": "com.example.prostudio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1006564595036-1irjoskjd5c6kp982p290kd4c6bc9hbr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqPM6I-9wn3Lv0mzgcWtm65pB5LVELhPI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1006564595036-1irjoskjd5c6kp982p290kd4c6bc9hbr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
